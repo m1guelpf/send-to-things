@@ -2,6 +2,9 @@
     <img src="https://m1guelpf.me/f0c46e0fe521/Things.png" width="100">
     <h1 align="center">Send To Things</h1>
     <p align="center">A PWA to add tasks to Things from pretty much anywhere</p>
+    <a algin="center" href="https://miguelpiedrafita.com/send-to-things">
+    <p align="center">Read the article &rarr;</p>
+    </a>
 </p>
 
 ## Quick Setup
