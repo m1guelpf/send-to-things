@@ -1,0 +1,7 @@
+[build]
+    functions = "./functions"
+
+[template.environment]
+  SENDGRID_KEY = "Your Sendgrid API key"
+  THINGS_EMAIL = "Your \"Things to Email\" email"
+  SEND_FROM = "The email from where your tasks will be sent"
