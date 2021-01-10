@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://miguelpiedrafita.com/images/send-to-things/mockup.png" width="100">
+    <img src="https://miguelpiedrafita.com/images/send-to-things/mockup.png">
     <h1 align="center">Send To Things</h1>
     <p align="center">A PWA to add tasks to Things from pretty much anywhere</p>
     <a algin="center" href="https://miguelpiedrafita.com/send-to-things">
